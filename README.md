@@ -32,4 +32,4 @@ Desde Visual Studio Code, abrí la terminal e instale las distintas bibliotecas 
 pip install requests beautifulsoup4 pandas openpyxl
 
 # Conclusión
-El script genera cuatro archivos de Excel, cada ranking de lenguajes de programación según su uso, salario o dificultad, tiene sus respectivos excel y además se guarda en un solo excel los 3 ranking's juntos y los guarda en el formato adecuado para su posterior análisis y presentación.
+El script genera cuatro archivos de Excel, cada ranking de lenguajes de programación según su uso, salario o dificultad, que cada uno tienen sus respectivos excel y además, se guarda en un solo excel los 3 ranking's juntos.
