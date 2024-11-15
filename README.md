@@ -17,6 +17,7 @@ Se utiliza "openpyxl" para ajustar el formato (ancho de las columnas, la alineac
 
 # Archivos de Excel
 Se guardan tres archivos (.xlsx) distintos:
+
 1- Lenguajes de programación más usados 2024.xlsx
 
 2-Lenguajes de Programación que mejor pagan en 2024.xlsx
