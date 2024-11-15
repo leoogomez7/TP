@@ -18,13 +18,13 @@ Se utiliza "openpyxl" para ajustar el formato (ancho de las columnas, la alineac
 # Archivos de Excel
 Se guardan cuatros archivos (.xlsx) distintos:
 
-1- LP - mas usados 2024.xlsx (Lenguajes de programación más usados 2024)
+1- LP - mas usados 2024.xlsx (Lenguajes de programación más usados 2024).
 
-2- LP - mejor pagan en 2024.xlsx (Lenguajes de Programación que mejor pagan en 2024)
+2- LP - mejor pagan en 2024.xlsx (Lenguajes de Programación que mejor pagan en 2024).
 
-3- LP - complejidad.xlsx (Lenguajes de Programación ordenados de fácil a difícil según su complejidad)
+3- LP - complejidad.xlsx (Lenguajes de Programación ordenados de fácil a difícil según su complejidad).
 
-4- Los 3 rankings de LP.xlsx
+4- Los 3 rankings de LP.xlsx (Lenguajes de Programación y sus 3 ranking en un solo archivo).
 
 # Instalación de librerias
 Desde Visual Studio Code, abrí la terminal e instale las distintas bibliotecas de la siguiente manera:
