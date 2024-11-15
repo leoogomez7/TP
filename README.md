@@ -25,6 +25,8 @@ Se guardan tres archivos (.xlsx) distintos:
 3-Lenguajes de Programación ordenados de fácil a difícil según su complejidad.xlsx
 
 # Instalación de librerias
+Desde Visual Studio Code, abrí la terminal e instale las distintas bibliotecas de la siguiente manera:
+
 pip install requests beautifulsoup4 pandas openpyxl
 
 # Conclusión
