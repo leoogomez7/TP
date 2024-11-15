@@ -12,17 +12,19 @@ Sitio web 2: Ranking de los lenguajes de programación que mejor pagan en 2024, 
 Sitio web 3: Ranking de lenguajes de programación ordenados de fácil a difícil según su complejidad, obtenido de (https://www.digitalogy.co/blog/programming-languages-from-easy-to-hard/)
 
 # Exportación a Excel (.xlsx)
-Para cada sitio web, los datos extraídos se organizan en "DataFrames" de "pandas" y luego se exportan a archivos de Excel (.xlsx) con sus respectivos títulos y datos.
+Para cada sitio web, los datos extraídos se organizan en DataFrames de "pandas" y luego se exportan a archivos de Excel (.xlsx) con sus respectivos títulos y datos.
 Se utiliza "openpyxl" para ajustar el formato (ancho de las columnas, la alineación de los textos y la inserción de títulos personalizados en las primeras filas).
 
 # Archivos de Excel
-Se guardan tres archivos (.xlsx) distintos:
+Se guardan cuatros archivos (.xlsx) distintos:
 
-1- Lenguajes de programación más usados 2024.xlsx
+1- LP - mas usados 2024.xlsx (Lenguajes de programación más usados 2024)
 
-2-Lenguajes de Programación que mejor pagan en 2024.xlsx
+2- LP - mejor pagan en 2024.xlsx (Lenguajes de Programación que mejor pagan en 2024)
 
-3-Lenguajes de Programación ordenados de fácil a difícil según su complejidad.xlsx
+3- LP - complejidad.xlsx (Lenguajes de Programación ordenados de fácil a difícil según su complejidad)
+
+4- Los 3 rankings de LP.xlsx
 
 # Instalación de librerias
 Desde Visual Studio Code, abrí la terminal e instale las distintas bibliotecas de la siguiente manera:
@@ -30,4 +32,4 @@ Desde Visual Studio Code, abrí la terminal e instale las distintas bibliotecas 
 pip install requests beautifulsoup4 pandas openpyxl
 
 # Conclusión
-El script genera tres archivos de Excel, cada uno con un ranking diferente de lenguajes de programación según su uso, salario o dificultad, y los guarda en el formato adecuado para su posterior análisis y presentación.
+El script genera cuatro archivos de Excel, cada ranking de lenguajes de programación según su uso, salario o dificultad, tiene sus respectivos excel y además se guarda en un solo excel los 3 ranking's juntos y los guarda en el formato adecuado para su posterior análisis y presentación.
